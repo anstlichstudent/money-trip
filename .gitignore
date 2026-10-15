@@ -18,5 +18,3 @@ coverage/
 
 .DS_Store
 __pycache__/
-
-worker-configuration.d.ts
